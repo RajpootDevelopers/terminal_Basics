@@ -63,3 +63,4 @@ z-bash
 git --version
 git
 git status
+git config --list
