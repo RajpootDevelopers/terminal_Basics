@@ -64,4 +64,5 @@ git --version
 git
 git status
 git config --list
+git add file.ext
 git commit -m "for commmit msg"
