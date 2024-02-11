@@ -8,7 +8,7 @@ mkdir c:\Users\ranag\Desktop\absolute
 mkdir Desktop\dasf
 
 
-## Commands : 
+## Commands  
 + mkdir 		(for folder creation)
 - touch		(for file creation)
 ### flags		
