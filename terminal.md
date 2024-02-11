@@ -1,6 +1,6 @@
 # TERMINAl
 ## PATH :
-### Absolute Path : 
+### Absolute Path  
 * absolute paths  : Starts with / remain same every where
 mkdir c:\Users\ranag\Desktop\absolute
 ### Relative Path :
