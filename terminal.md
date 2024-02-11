@@ -66,3 +66,7 @@ git status
 git config --list
 git add file.ext
 git commit -m "for commmit msg"
+git commit -am "msg"
+
+
+
